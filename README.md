@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hello everyone
 
-<!--
-**ElTuteDev/ElTuteDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Systems Engineering student** with experience working in various companies, which has helped me gain practical skills and a solid understanding of real-world professional environments.
 
-Here are some ideas to get you started:
+One of my current goals is to master the **Java stack** and leverage it to advance my career in software development. I'm particularly interested in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 **Backend development** with Java
+- 🌱 Using frameworks like **Spring** and **Spring Boot**
+- 🔗 Designing and consuming **REST APIs**
+- 🗄️ Working with **relational databases** (such as MySQL and PostgreSQL)
+- 🧠 Applying software architecture principles and development best practices
+
+I'm committed to continuous learning and excited about the challenges and opportunities that come with this technology.
+
+📁 **If you'd like to follow my progress, feel free to explore my repositories.**  
+🙌 Thanks for visiting my profile!
